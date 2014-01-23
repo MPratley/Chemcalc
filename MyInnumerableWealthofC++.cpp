@@ -8,4 +8,5 @@ loop:
 	std::cout << foo << bar << std::endl;
 	goto loop;
 
+	//	This is a comment
 }
