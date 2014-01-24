@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main()
-(
-	printf("Goodbye, cruel world! \n");
-	return(0);
-)
+{
+    printf("Goodbye, cruel world!\n");
+    return(0);
+}
